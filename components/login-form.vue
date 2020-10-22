@@ -16,6 +16,7 @@
         <i class="bx bx-lock-open-alt"></i>
       </template>
     </vs-input>
+    <sw-button></sw-button>
     <vs-button>Login</vs-button>
   </form>
 </template>

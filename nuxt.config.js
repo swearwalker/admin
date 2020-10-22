@@ -38,6 +38,7 @@ export default {
     '@/plugins/vue-lazyload',
     '@/plugins/v-click-outside',
     '@/plugins/vue-formulate',
+    '@/plugins/sw-ui',
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
